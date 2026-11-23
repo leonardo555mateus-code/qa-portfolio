@@ -4,6 +4,7 @@ Portfólio de estudos de qualidade de software
  Meu portfólio de QA
 
 -Quem sou-
+
 Me chamo Leonardo e estou sou estudante de qualidade de software e estou começando a montar meu portfólio.
 
 -O que estou estudando-
